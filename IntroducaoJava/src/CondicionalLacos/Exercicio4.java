@@ -67,7 +67,7 @@ public class Exercicio4 {
 
 			vezes++;
 
-		} while (vezes < 1);
+		} while (vezes < 150);
 
 		System.out.println("O número de pessoas calmas é de: " + numeroPessoasCalmas);
 		System.out.println("\nO número de mulheres nervosas é de: " + numeroMulheresNervosas);
