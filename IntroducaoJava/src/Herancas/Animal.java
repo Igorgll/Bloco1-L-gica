@@ -1,4 +1,4 @@
-package HerancaPolimorfismo;
+package Herancas;
 
 public class Animal {
 	
